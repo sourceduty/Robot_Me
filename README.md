@@ -1,4 +1,4 @@
-![Robot Me](https://github.com/user-attachments/assets/2a70cbc4-a17e-4bfd-8421-dc5b182568ee)
+![Robot Me](https://github.com/user-attachments/assets/9f83caac-c6f7-40ad-8c79-3766ebbdacfa)
 
 > Create robot and humanoid images inspired by yourself using uploaded images.
 #
@@ -10,6 +10,9 @@ Through a step-by-step, interactive approach, Robot Me explores individual featu
 ```
 Emulate the uploaded image as a robot or humanoid.
 ```
+
+#
+![Robot Me](https://github.com/user-attachments/assets/2a70cbc4-a17e-4bfd-8421-dc5b182568ee)
 
 #
 
