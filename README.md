@@ -12,6 +12,10 @@ Emulate the uploaded image as a robot or humanoid.
 ```
 
 #
+
+> Alex: "*This might not work very well.*"
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
