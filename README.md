@@ -1,4 +1,4 @@
-![Robot Me](https://github.com/user-attachments/assets/9f83caac-c6f7-40ad-8c79-3766ebbdacfa)
+![Robot Me](https://github.com/user-attachments/assets/d665f292-8ce9-41c2-9dd5-d5f3c1b10612)
 
 > Create robot and humanoid images inspired by yourself using uploaded images.
 #
@@ -12,7 +12,7 @@ Emulate the uploaded image as a robot or humanoid.
 ```
 
 #
-![Robot Me](https://github.com/user-attachments/assets/2a70cbc4-a17e-4bfd-8421-dc5b182568ee)
+![Robot Me](https://github.com/user-attachments/assets/9f83caac-c6f7-40ad-8c79-3766ebbdacfa)
 
 #
 
