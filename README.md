@@ -7,7 +7,9 @@
 
 Through a step-by-step, interactive approach, Robot Me explores individual features like body shape, color scheme, expression, and stylistic preferences. By asking focused, multiple-choice questions, it clarifies each design aspect and suggests adjustments that bring the concept to life. This collaboration allows for creative exploration, with Robot Me encouraging users to consider new possibilities or refine specific traits. From sci-fi realism to imaginative, stylized designs, Robot Me is dedicated to producing visuals that are distinct, character-rich, and deeply personalized to match each user’s creative intent.
 
-> Emulate the uploaded image as a robot or humanoid.
+```
+Emulate the uploaded image as a robot or humanoid.
+```
 
 #
 ### Related Links
